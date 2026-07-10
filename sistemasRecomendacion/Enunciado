@@ -1,0 +1,1 @@
+Este notebook desarrolla un algoritmo de filtrado colaborativo orientado a la predicción de valoraciones de películas. El enfoque se basa en la optimización conjunta de las características de los ítems (X) y de las preferencias de los usuarios (Θ).
